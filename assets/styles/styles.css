@@ -7,7 +7,7 @@
   width: 300px;
   height: 100%;
   border-right: solid;
-  border-color: #00161666;
+  border-color: #00141466;
 }
 
 #navbar header {
@@ -80,15 +80,12 @@ div.coad {
 
 .coaded::before {
   font-size: 14.5px;
+  background-color: #f6f6f6;
   height: 16vh;
   margin-left: 12px;
   padding: 10px;
   line-height: 30px;
   offset-position: auto;
-}
-
-.coaded {
-  background-color: #f6f6f6;
 }
 
 #circle {
