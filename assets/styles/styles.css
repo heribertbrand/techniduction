@@ -31,10 +31,7 @@
   min-width: max-content;
   padding-bottom: 15px;
   padding-left: 5px;
-  margin-left: 25%;
-  margin-right: 30%;
-  margin-bottom: 20px;
-  margin-top: 0;
+  margin: 0 30% 20px 25%;
   border-radius: 20px;
   gap: 2rem;
 }
