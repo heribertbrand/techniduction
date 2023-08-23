@@ -14,7 +14,6 @@ body {
   height: 100%;
   border-right: solid;
   border-color: #00141466;
-  /* overflow: hidden; */
 }
 
 #navbar header {
@@ -69,7 +68,6 @@ li {
   margin-left: 310px;
   padding: 10px;
   line-height: 25px;
-  /* overflow: hidden; */
 }
 
 .coad::before {
