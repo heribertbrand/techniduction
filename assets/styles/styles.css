@@ -19,11 +19,11 @@ body {
 #navbar header {
   text-align: center;
   border-radius: 20px;
-  margin-left: -5px;
+  margin-left: 10px;
   height: 5vh;
-  background-color: #a7b8e7;
-  padding-left: 20px;
-  padding-top: 10px;
+  /* background-color: #a7b8e7; */
+  padding-left: 30px;
+  padding-top: 20px;
   padding-bottom: 10px;
   font-size: 1.7em;
 }
@@ -31,13 +31,13 @@ body {
 .big {
   font-size: 25px;
   text-align: center;
-  background-color: #a7b8e7;
+  /* background-color: #a7b8e7; */
   height: 2vh;
   padding-top: 5px;
   min-width: max-content;
   padding-bottom: 15px;
   padding-left: 5px;
-  margin: 0 30% 20px 25%;
+  margin: 20px 30% 20px 25%;
   border-radius: 20px;
   gap: 2rem;
 }
@@ -72,21 +72,21 @@ li {
 
 .coad::before {
   font-size: 20px;
-  background-color: #f6f6f6;
+  background-color: #d5d5d5;
   height: 8vh;
   margin-left: 12px;
   padding: 10px;
   offset-position: auto;
 }
 
-div.coad {
+div .coad {
   padding-top: 30px;
   margin-bottom: 40px;
 }
 
 .coaded::before {
   font-size: 14.5px;
-  background-color: #f6f6f6;
+  background-color: #b3b3b3;
   height: 16vh;
   margin-left: 12px;
   padding: 10px;
